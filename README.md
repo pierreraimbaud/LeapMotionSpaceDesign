@@ -1,4 +1,4 @@
-#Leap Motion : Space design (preconception phase)
+###Leap Motion : Space design (preconception phase)
 
 
 Application by Pierre Raimbaud
